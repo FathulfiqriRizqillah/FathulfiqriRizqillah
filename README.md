@@ -1,8 +1,10 @@
-👋 Hallo, Saya Fathulfiqri Rizqillah
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Profil  
+Fathulfiqri Rizqillah
+Karawang, 15 Januari 2002 
+Pria
+Islam
+Belum Menikah
+Indonesia
 
 <!---
 FathulfiqriRizqillah/FathulfiqriRizqillah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
