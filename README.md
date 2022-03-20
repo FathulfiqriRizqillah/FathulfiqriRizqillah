@@ -1,9 +1,14 @@
 Profil  
+
 Fathulfiqri Rizqillah
+
 Karawang, 15 Januari 2002 
+
 Pria
+
 Islam
-Belum Menikah
+
+
 Indonesia
 
 <!---
